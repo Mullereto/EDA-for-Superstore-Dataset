@@ -21,7 +21,7 @@ Region, City, State: Location information related to the sales.
 Order Date: Date when the order was placed.
 
 
-Analysis
+# Analysis
 The goal of this analysis is to gain insights into:
 
 Top-selling and top-profit products.
@@ -40,3 +40,7 @@ Sales Trends Over Time: We analyze sales trends on a monthly and yearly basis to
 Impact of Discounts: By grouping data based on discounts, we analyze how varying discount rates affect both sales and profitability. This helps in determining the effectiveness of different discount strategies.
 
 State and City Level Sales and Profit: Visualizations for state-wise and city-wise sales and profit to determine which geographical areas are driving the most revenue and profitability.
+
+
+# Conclusion
+This analysis provides insights into the performance of different products, regions, and the impact of discounts on sales and profitability. It helps understand sales trends and identify areas for business improvement.
