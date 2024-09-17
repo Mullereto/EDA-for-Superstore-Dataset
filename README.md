@@ -7,12 +7,20 @@ Dataset
 The dataset used is Superstore Sales Data, which includes the following columns:
 
 Order ID: Unique identifier for each order.
+
 Product Name: Name of the product sold.
+
 Sales: Sales amount for the corresponding product.
+
 Profit: Profit generated for the sale.
+
 Discount: Discount applied to the product.
+
 Region, City, State: Location information related to the sales.
+
 Order Date: Date when the order was placed.
+
+
 Analysis
 The goal of this analysis is to gain insights into:
 
